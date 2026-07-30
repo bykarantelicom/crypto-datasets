@@ -14,6 +14,7 @@ If these datasets are useful, a link back to the source pages helps us keep them
 | [`data/daily-market.csv`](data/daily-market.csv) | One row per UTC day: BTC dominance %, ETH dominance %, total crypto market cap, 24h volume, stablecoin cap, Fear & Greed value + classification | daily | [bykaranteli.com/data](https://bykaranteli.com/data) |
 | [`data/daily-symbols.csv`](data/daily-symbols.csv) | Per-symbol daily stats for tracked Binance USDT-M perpetuals: close, 24h volume, funding, open interest | daily | [bykaranteli.com/data](https://bykaranteli.com/data) |
 | [`data/listings.csv`](data/listings.csv) | Perpetual listing/delisting tracker across 6 exchanges (Binance, OKX, Bybit, Gate, HTX, BingX): symbol, exchange, status, first seen, delisted at | daily | [bykaranteli.com/listings](https://bykaranteli.com/listings) |
+| [`data/liquidations-daily.csv`](data/liquidations-daily.csv) | Daily long/short liquidation totals (USD) per symbol and exchange, recorded from public Binance, Bybit and OKX streams. Recorded events, not estimates; collection began 2026-07-30 | daily | [bykaranteli.com/liquidations](https://bykaranteli.com/liquidations) |
 | [`data/indices-latest.json`](data/indices-latest.json) | Latest snapshot of our market indices: Fear & Greed, BTC dominance, stablecoin cap, Retail Euphoria Index, and the [Altcoin Season Index](https://bykaranteli.com/glossary/altcoin-season-index) | daily | [api](https://bykaranteli.com/api/public/indices) |
 
 Column-level notes live in each dataset's header row; the accumulation started
