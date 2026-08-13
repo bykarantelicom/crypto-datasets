@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use these datasets in research, please cite this repository. All data is CC0; citation is appreciated, not required."
+title: "ByKaranteli Crypto Datasets"
+type: dataset
+authors:
+  - name: "ByKaranteli"
+    website: "https://bykaranteli.com"
+repository-code: "https://github.com/bykarantelicom/crypto-datasets"
+url: "https://bykaranteli.com/data"
+license: CC0-1.0
+abstract: >-
+  Daily-updated, CC0-licensed crypto market datasets collected by ByKaranteli's
+  own recording network: real multi-venue liquidations, US spot ETF flows, CFTC
+  COT positioning, Coinbase premium, DVOL, options open interest and tape
+  rollups, execution-cost ladders, exchange insurance funds, macro liquidity
+  series and a daily quantum-exposure measurement from a first-party Bitcoin
+  Core node. Quarterly frozen releases are tagged for reproducible citation.
+keywords:
+  - cryptocurrency
+  - bitcoin
+  - liquidations
+  - derivatives
+  - market-data
+  - open-data
