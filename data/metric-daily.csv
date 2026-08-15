@@ -14,6 +14,7 @@ altseason_index,2026-08-10,67,backfill
 altseason_index,2026-08-11,69,backfill
 altseason_index,2026-08-12,67,backfill
 altseason_index,2026-08-13,72,live
+altseason_index,2026-08-14,73,live
 btc_close,2017-08-17,4285.08,backfill
 btc_close,2017-08-18,4108.37,backfill
 btc_close,2017-08-19,4139.98,backfill
@@ -3298,6 +3299,7 @@ btc_close,2026-08-10,63970.01,backfill
 btc_close,2026-08-11,63600,backfill
 btc_close,2026-08-12,63479.99,live
 btc_close,2026-08-13,63490.86,live
+btc_close,2026-08-14,63043.56,live
 btc_difficulty_t,2017-08-17,0.9232330684489053,backfill
 btc_difficulty_t,2017-08-18,0.9232330684489053,backfill
 btc_difficulty_t,2017-08-19,0.9232330684489053,backfill
@@ -6471,7 +6473,9 @@ btc_difficulty_t,2026-08-10,127.4798556936914,backfill
 btc_difficulty_t,2026-08-11,127.4798556936914,backfill
 btc_difficulty_t,2026-08-12,127.4798556936914,live
 btc_difficulty_t,2026-08-13,127.4798556936914,live
+btc_difficulty_t,2026-08-14,127.4798556936914,live
 btc_dominance_pct,2026-08-13,56.2216485940741,live
+btc_dominance_pct,2026-08-14,56.11102020566597,live
 btc_fee_block_avg_satvb,2026-06-16,2,backfill
 btc_fee_block_avg_satvb,2026-06-17,1,backfill
 btc_fee_block_avg_satvb,2026-06-18,1,backfill
@@ -6517,6 +6521,7 @@ btc_fee_block_avg_satvb,2026-08-08,1,backfill
 btc_fee_block_avg_satvb,2026-08-09,1,backfill
 btc_fee_block_avg_satvb,2026-08-11,1,backfill
 btc_fee_block_avg_satvb,2026-08-13,3,live
+btc_fee_block_avg_satvb,2026-08-14,2,live
 btc_hashrate_ehs,2017-08-17,6.608759725956296,backfill
 btc_hashrate_ehs,2017-08-18,6.608759725956296,backfill
 btc_hashrate_ehs,2017-08-19,6.608759725956296,backfill
@@ -9690,6 +9695,7 @@ btc_hashrate_ehs,2026-08-10,912.5363518386733,backfill
 btc_hashrate_ehs,2026-08-11,912.5363518386733,backfill
 btc_hashrate_ehs,2026-08-12,939.3209225433325,live
 btc_hashrate_ehs,2026-08-13,876.083308533155,live
+btc_hashrate_ehs,2026-08-14,1018.802932037975,live
 coinbase_premium_pct,2017-08-17,-0.11831751099162,backfill
 coinbase_premium_pct,2017-08-18,-0.1618646811265693,backfill
 coinbase_premium_pct,2017-08-19,0.4210165266498943,backfill
@@ -12974,6 +12980,7 @@ coinbase_premium_pct,2026-08-10,-0.09087070644510553,backfill
 coinbase_premium_pct,2026-08-11,-0.107311320754717,backfill
 coinbase_premium_pct,2026-08-12,-0.1075457006215609,live
 coinbase_premium_pct,2026-08-13,-0.1031802057808038,live
+coinbase_premium_pct,2026-08-14,-0.1084488249077231,live
 dvol_btc,2021-03-24,95.04,backfill
 dvol_btc,2021-03-25,89.74,backfill
 dvol_btc,2021-03-26,84.52,backfill
@@ -14943,6 +14950,7 @@ dvol_btc,2026-08-10,34.77,backfill
 dvol_btc,2026-08-11,36.32,backfill
 dvol_btc,2026-08-12,36.09,live
 dvol_btc,2026-08-13,35.68,live
+dvol_btc,2026-08-14,34.79,live
 etf_btc_net_flow_usd,2025-05-20,329022102.06,backfill
 etf_btc_net_flow_usd,2025-05-21,608993678.8,backfill
 etf_btc_net_flow_usd,2025-05-22,934742459.72,backfill
@@ -15253,7 +15261,9 @@ etf_btc_net_flow_usd,2026-08-10,-144670942.17,backfill
 etf_btc_net_flow_usd,2026-08-11,4886243.949999999,backfill
 etf_btc_net_flow_usd,2026-08-12,-61163714,live
 eth_dominance_pct,2026-08-13,10.04544137933598,live
+eth_dominance_pct,2026-08-14,10.07782872754459,live
 euphoria_index,2026-08-13,48,live
+euphoria_index,2026-08-14,53,live
 fear_greed,2018-02-01,30,backfill
 fear_greed,2018-02-02,15,backfill
 fear_greed,2018-02-03,40,backfill
@@ -18366,6 +18376,7 @@ fear_greed,2026-08-10,30,backfill
 fear_greed,2026-08-11,29,backfill
 fear_greed,2026-08-12,27,live
 fear_greed,2026-08-13,29,live
+fear_greed,2026-08-14,29,live
 fred_dff,2017-01-01,0.55,backfill
 fred_dff,2017-01-02,0.55,backfill
 fred_dff,2017-01-03,0.66,backfill
@@ -21877,6 +21888,7 @@ fred_dff,2026-08-09,3.63,live
 fred_dff,2026-08-10,3.63,live
 fred_dff,2026-08-11,3.63,live
 fred_dff,2026-08-12,3.63,live
+fred_dff,2026-08-13,3.63,live
 fred_dgs10,2017-01-02,0,backfill
 fred_dgs10,2017-01-03,2.45,backfill
 fred_dgs10,2017-01-04,2.46,backfill
@@ -24385,6 +24397,7 @@ fred_dgs10,2026-08-07,4.65,live
 fred_dgs10,2026-08-10,4.72,live
 fred_dgs10,2026-08-11,4.7,live
 fred_dgs10,2026-08-12,4.68,live
+fred_dgs10,2026-08-13,4.63,live
 fred_rrp_busd,2017-01-02,0,backfill
 fred_rrp_busd,2017-01-03,287.236,backfill
 fred_rrp_busd,2017-01-04,266.468,backfill
@@ -26894,6 +26907,7 @@ fred_rrp_busd,2026-08-10,0.975,live
 fred_rrp_busd,2026-08-11,1.25,live
 fred_rrp_busd,2026-08-12,0.725,live
 fred_rrp_busd,2026-08-13,0.45,live
+fred_rrp_busd,2026-08-14,0.25,live
 fred_walcl_busd,2017-01-04,4453.101,backfill
 fred_walcl_busd,2017-01-11,4452.509,backfill
 fred_walcl_busd,2017-01-18,4460.758,backfill
@@ -29926,8 +29940,11 @@ funding_btc_daily_pct,2026-08-10,0.020462,backfill
 funding_btc_daily_pct,2026-08-11,0.012545,backfill
 funding_btc_daily_pct,2026-08-12,0.025169,live
 funding_btc_daily_pct,2026-08-13,0.021635,live
+funding_btc_daily_pct,2026-08-14,0.015173,live
 insurance_binance_musd,2026-08-13,2353.845415985222,live
+insurance_binance_musd,2026-08-14,2353.330369417334,live
 insurance_bybit_musd,2026-08-13,511.0674971074609,live
+insurance_bybit_musd,2026-08-14,511.2794420373484,live
 kraken_btc_premium_pct,2024-08-23,0.07832942206753991,backfill
 kraken_btc_premium_pct,2024-08-24,0.02959925969118255,backfill
 kraken_btc_premium_pct,2024-08-25,0.1060417315478022,backfill
@@ -30649,12 +30666,16 @@ kraken_btc_premium_pct,2026-08-10,-0.07489447008059479,backfill
 kraken_btc_premium_pct,2026-08-11,-0.09261006289308404,backfill
 kraken_btc_premium_pct,2026-08-12,-0.1071046167461557,live
 kraken_btc_premium_pct,2026-08-13,-0.1064090169829132,live
+kraken_btc_premium_pct,2026-08-14,-0.1017709025315135,live
 quantum_exposed_btc,2026-08-13,1936223.02374956,live
 quantum_exposed_btc,2026-08-14,1936211.9784378,live
+quantum_exposed_btc,2026-08-15,1936337.41208402,live
 quantum_exposed_pct_value,2026-08-13,9.647727404672604,live
 quantum_exposed_pct_value,2026-08-14,9.647460555976858,live
+quantum_exposed_pct_value,2026-08-15,9.647861712818182,live
 quantum_watchset_btc,2026-08-13,1711613.05507801,live
 quantum_watchset_btc,2026-08-14,1711613.05507801,live
+quantum_watchset_btc,2026-08-15,1711613.05507801,live
 stablecoin_total_mcap_busd,2017-11-29,0.000110105,backfill
 stablecoin_total_mcap_busd,2017-11-30,0.000110105,backfill
 stablecoin_total_mcap_busd,2017-12-01,0.000110105,backfill
@@ -33835,6 +33856,7 @@ stablecoin_total_mcap_busd,2026-08-10,306.323704586,backfill
 stablecoin_total_mcap_busd,2026-08-11,305.407366808,backfill
 stablecoin_total_mcap_busd,2026-08-12,306.391646165,live
 stablecoin_total_mcap_busd,2026-08-13,306.41327428534,live
+stablecoin_total_mcap_busd,2026-08-14,306.34980808189,live
 vpin_btc,2026-05-15,0.1292382752194151,backfill
 vpin_btc,2026-05-16,0.1479362268581825,backfill
 vpin_btc,2026-05-17,0.1618621580017406,backfill
@@ -33926,3 +33948,4 @@ vpin_btc,2026-08-10,0.1130588012880703,backfill
 vpin_btc,2026-08-11,0.1176911696005811,backfill
 vpin_btc,2026-08-12,0.1193332233467909,live
 vpin_btc,2026-08-13,0.1280913082794366,live
+vpin_btc,2026-08-14,0.1387650133689608,live
