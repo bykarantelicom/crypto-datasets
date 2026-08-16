@@ -1,32 +1,32 @@
 {
-    "generatedAt": "2026-08-16T16:18:16.392Z",
+    "generatedAt": "2026-08-16T16:47:22.624Z",
     "euphoria": {
         "score": 53,
         "regime": "BALANCED",
         "explainer": [
             "Fear & Greed Index at 34 (Fear)",
-            "BTC dominance 56.1% (-0.00% 24h)",
+            "BTC dominance 56.2% (-0.01% 24h)",
             "67% of top-30 symbols in LONG_CROWDED regime",
-            "23% of top-30 symbols have positive funding"
+            "27% of top-30 symbols have positive funding"
         ],
         "components": {
             "fearGreedLabel": "Fear",
             "fearGreedValue": 34,
-            "btcDominancePct": 56.13969620427489,
+            "btcDominancePct": 56.19856565348764,
             "trendingSymbols": [],
             "trendingMemeCount": 0,
-            "avgLongCrowdedScore": 20.33333333333333,
+            "avgLongCrowdedScore": 22.2,
             "pctLongCrowdedTop30": 0.6666666666666666,
-            "pctPositiveFundingTop30": 0.2333333333333333,
-            "btcDominanceChange24hPct": -0.0003124988095401712
+            "pctPositiveFundingTop30": 0.2666666666666667,
+            "btcDominanceChange24hPct": -0.01175662079537867
         },
-        "generatedAt": "2026-08-16T16:12:10.754Z",
+        "generatedAt": "2026-08-16T16:42:08.738Z",
         "regimeLabel": "Balanced \u00b7 no clear emotional skew",
         "contributions": {
             "base": 50,
             "fearGreed": -10,
             "btcDominance": 0,
-            "longCrowding": 12,
+            "longCrowding": 13,
             "trendingMemes": 0
         },
         "inputsPresent": {
@@ -232,16 +232,16 @@
                 "valueClassification": "Extreme Fear"
             }
         ],
-        "generatedAt": "2026-08-16T16:12:09.420Z"
+        "generatedAt": "2026-08-16T16:42:07.789Z"
     },
     "global": {
-        "generatedAt": "2026-08-16T16:12:10.486Z",
-        "totalMcapUsd": 2254928191567.125,
-        "activeCryptos": 18437,
-        "btcDominancePct": 56.13969620427489,
-        "ethDominancePct": 10.07354925603904,
-        "totalVolume24hUsd": 28774110200.65502,
-        "marketCapChange24hPct": 0.006249976190803423
+        "generatedAt": "2026-08-16T16:42:08.499Z",
+        "totalMcapUsd": 2260089003676.317,
+        "activeCryptos": 18436,
+        "btcDominancePct": 56.19856565348764,
+        "ethDominancePct": 10.0776682664216,
+        "totalVolume24hUsd": 29822702271.73539,
+        "marketCapChange24hPct": 0.2351324159075734
     },
     "stablecoins": {
         "totalUsd": 307374536569.2469,
@@ -357,7 +357,7 @@
             }
         ],
         "delta24hUsd": 113536442.149292,
-        "generatedAt": "2026-08-16T16:12:10.558Z",
+        "generatedAt": "2026-08-16T16:42:08.587Z",
         "totalPrevDay": 307261000127.0976,
         "totalPrevWeek": 306919014193.9957
     },
