@@ -47,3 +47,7 @@ date,symbol,tenor,expiry,spot_usd,future_usd,annualized_pct
 2026-08-17,BTC,next_quarter,2026-12-25,62905.25,63906.6,4.4583
 2026-08-17,ETH,current_quarter,2026-09-25,1875.16,1879.88,2.3364
 2026-08-17,ETH,next_quarter,2026-12-25,1875.16,1894.57,2.8991
+2026-08-18,BTC,current_quarter,2026-09-25,64440,64743.6,4.4873
+2026-08-18,BTC,next_quarter,2026-12-25,64452.78,65470,4.4544
+2026-08-18,ETH,current_quarter,2026-09-25,1910.88,1915.09,2.0984
+2026-08-18,ETH,next_quarter,2026-12-25,1911.27,1929.87,2.7467
