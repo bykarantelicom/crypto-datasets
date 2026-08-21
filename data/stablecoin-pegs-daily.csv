@@ -1,0 +1,5 @@
+date,symbol,venues,min_usd,median_usd,max_usd,source
+2026-08-21,DAI,3,0.99514,0.9999,1.00123,bykaranteli.com
+2026-08-21,FDUSD,3,0.9985,0.9986,0.9987,bykaranteli.com
+2026-08-21,USDC,24,0.99261,1.0003,1.00839,bykaranteli.com
+2026-08-21,USDT,17,0.99261,0.9997,1.00784,bykaranteli.com
