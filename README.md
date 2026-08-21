@@ -1,5 +1,7 @@
 # ByKaranteli Crypto Datasets
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22049575.svg)](https://doi.org/10.5281/zenodo.22049575)
+
 Free, CC0-licensed crypto market datasets, updated daily by an automated pipeline.
 Maintained by [ByKaranteli](https://bykaranteli.com), a crypto derivatives terminal
 built on Binance USDT-M perpetual data.
@@ -44,6 +46,13 @@ and grows one row per day from there.
 A daily job exports these files from the same database that serves
 bykaranteli.com and pushes the diff here. If a day is missing, the pipeline
 skipped rather than fabricate values; gaps are honest.
+
+## Citation
+
+Every quarterly frozen release is archived on Zenodo with a DOI. Cite the
+concept DOI for the dataset as a whole, or a version DOI for an exact snapshot:
+
+> ByKaranteli (2026). ByKaranteli Crypto Datasets. Zenodo. https://doi.org/10.5281/zenodo.22049575
 
 ## License
 

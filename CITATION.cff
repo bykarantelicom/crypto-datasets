@@ -22,3 +22,8 @@ keywords:
   - derivatives
   - market-data
   - open-data
+doi: 10.5281/zenodo.22049575
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22049575
+    description: Concept DOI, resolves to the latest frozen release
