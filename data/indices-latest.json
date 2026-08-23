@@ -1,37 +1,36 @@
 {
-    "generatedAt": "2026-08-22T05:25:14.189Z",
+    "generatedAt": "2026-08-23T05:25:17.858Z",
     "euphoria": {
-        "score": 94,
-        "regime": "EXTREME_EUPHORIA",
+        "score": 71,
+        "regime": "EUPHORIA",
         "explainer": [
-            "Fear & Greed Index at 71 (Greed)",
-            "2 memecoins in CoinGecko trending",
-            "BTC dominance 58.2% (-0.18% 24h)",
-            "87% of top-30 symbols in LONG_CROWDED regime",
-            "73% of top-30 symbols have positive funding"
+            "Fear & Greed Index at 66 (Greed)",
+            "1 memecoins in CoinGecko trending",
+            "BTC dominance 59.4% (+0.35% 24h)",
+            "43% of top-30 symbols in LONG_CROWDED regime",
+            "10% of top-30 symbols have positive funding"
         ],
         "components": {
             "fearGreedLabel": "Greed",
-            "fearGreedValue": 71,
-            "btcDominancePct": 58.21691218918692,
+            "fearGreedValue": 66,
+            "btcDominancePct": 59.43571368427347,
             "trendingSymbols": [
-                "PEPE",
                 "TRUMP"
             ],
-            "trendingMemeCount": 2,
-            "avgLongCrowdedScore": 33.6,
-            "pctLongCrowdedTop30": 0.8666666666666667,
-            "pctPositiveFundingTop30": 0.7333333333333333,
-            "btcDominanceChange24hPct": -0.1781155753280732
+            "trendingMemeCount": 1,
+            "avgLongCrowdedScore": 10.53333333333333,
+            "pctLongCrowdedTop30": 0.4333333333333333,
+            "pctPositiveFundingTop30": 0.1,
+            "btcDominanceChange24hPct": 0.3482742774173829
         },
-        "generatedAt": "2026-08-22T05:12:10.844Z",
-        "regimeLabel": "Extreme euphoria \u00b7 classic late-cycle positioning",
+        "generatedAt": "2026-08-23T05:12:11.596Z",
+        "regimeLabel": "Euphoric \u00b7 retail piled into longs",
         "contributions": {
             "base": 50,
-            "fearGreed": 13,
-            "btcDominance": 3,
-            "longCrowding": 20,
-            "trendingMemes": 8
+            "fearGreed": 10,
+            "btcDominance": 0,
+            "longCrowding": 8,
+            "trendingMemes": 4
         },
         "inputsPresent": {
             "fearGreed": true,
@@ -43,18 +42,24 @@
     },
     "fearGreed": {
         "today": {
+            "dateKey": "2026-08-23",
+            "valueRaw": 66,
+            "timestamp": 1787443200000,
+            "valueClassification": "Greed"
+        },
+        "yesterday": {
             "dateKey": "2026-08-22",
             "valueRaw": 71,
             "timestamp": 1787356800000,
             "valueClassification": "Greed"
         },
-        "yesterday": {
-            "dateKey": "2026-08-21",
-            "valueRaw": 72,
-            "timestamp": 1787270400000,
-            "valueClassification": "Greed"
-        },
         "last30Days": [
+            {
+                "dateKey": "2026-08-23",
+                "valueRaw": 66,
+                "timestamp": 1787443200000,
+                "valueClassification": "Greed"
+            },
             {
                 "dateKey": "2026-08-22",
                 "valueRaw": 71,
@@ -228,187 +233,181 @@
                 "valueRaw": 27,
                 "timestamp": 1784937600000,
                 "valueClassification": "Fear"
-            },
-            {
-                "dateKey": "2026-07-24",
-                "valueRaw": 28,
-                "timestamp": 1784851200000,
-                "valueClassification": "Fear"
             }
         ],
-        "generatedAt": "2026-08-22T05:12:09.874Z"
+        "generatedAt": "2026-08-23T05:12:09.849Z"
     },
     "global": {
-        "generatedAt": "2026-08-22T05:12:10.593Z",
-        "totalMcapUsd": 2700756517296.223,
-        "activeCryptos": 18611,
-        "btcDominancePct": 58.21691218918692,
-        "ethDominancePct": 11.21912273677427,
-        "totalVolume24hUsd": 180088236170.0321,
-        "marketCapChange24hPct": 3.562311506561463
+        "generatedAt": "2026-08-23T05:12:10.948Z",
+        "totalMcapUsd": 2577661414707.947,
+        "activeCryptos": 18619,
+        "btcDominancePct": 59.43571368427347,
+        "ethDominancePct": 11.10291042562859,
+        "totalVolume24hUsd": 111820961723.6715,
+        "marketCapChange24hPct": -6.965485548347658
     },
     "stablecoins": {
-        "totalUsd": 309426760329.102,
-        "delta7dUsd": 2090487540.330994,
+        "totalUsd": 309515580005.0175,
+        "delta7dUsd": 2309053775.715576,
         "topStables": [
             {
                 "name": "Tether",
                 "symbol": "USDT",
                 "peggedId": "1",
-                "circulatingUsd": 183133896513.9544,
-                "circulatingPrevDay": 183033604959.9419,
-                "circulatingPrevWeek": 183166579860.5201,
-                "circulatingPrevMonth": 183159324792.413
+                "circulatingUsd": 183197457341.5275,
+                "circulatingPrevDay": 183145465714.7934,
+                "circulatingPrevWeek": 183094625635.8532,
+                "circulatingPrevMonth": 184096649716.3969
             },
             {
                 "name": "USD Coin",
                 "symbol": "USDC",
                 "peggedId": "2",
-                "circulatingUsd": 73589473671.70752,
-                "circulatingPrevDay": 72913958069.62636,
-                "circulatingPrevWeek": 72037570558.43613,
-                "circulatingPrevMonth": 74068029687.48668
+                "circulatingUsd": 73623013535.43767,
+                "circulatingPrevDay": 73668569921.33417,
+                "circulatingPrevWeek": 71962197962.2853,
+                "circulatingPrevMonth": 73950913228.97766
             },
             {
                 "name": "Sky Dollar",
                 "symbol": "USDS",
                 "peggedId": "209",
-                "circulatingUsd": 6654620602.942827,
-                "circulatingPrevDay": 6722016997.156503,
-                "circulatingPrevWeek": 6669607126.738925,
-                "circulatingPrevMonth": 6676682726.827463
+                "circulatingUsd": 6647384890.928862,
+                "circulatingPrevDay": 6641007668.364763,
+                "circulatingPrevWeek": 6682937837.968359,
+                "circulatingPrevMonth": 6659125999.563375
             },
             {
                 "name": "Dai",
                 "symbol": "DAI",
                 "peggedId": "5",
-                "circulatingUsd": 4787026899.82058,
-                "circulatingPrevDay": 4779800886.098635,
-                "circulatingPrevWeek": 4780131453.222135,
-                "circulatingPrevMonth": 4852506145.779075
+                "circulatingUsd": 4791543917.071165,
+                "circulatingPrevDay": 4783641969.072815,
+                "circulatingPrevWeek": 4775978999.775065,
+                "circulatingPrevMonth": 4858692306.889566
             },
             {
                 "name": "Ethena USDe",
                 "symbol": "USDe",
                 "peggedId": "146",
-                "circulatingUsd": 4107833339.078576,
-                "circulatingPrevDay": 4080348154.201476,
-                "circulatingPrevWeek": 3960457038.13861,
-                "circulatingPrevMonth": 4035472880.196547
+                "circulatingUsd": 4091158642.280586,
+                "circulatingPrevDay": 4107711736.15615,
+                "circulatingPrevWeek": 3961261158.775633,
+                "circulatingPrevMonth": 3980417142.267879
             },
             {
                 "name": "World Liberty Financial USD",
                 "symbol": "USD1",
                 "peggedId": "262",
-                "circulatingUsd": 4008063470.77565,
-                "circulatingPrevDay": 4001066627.593269,
-                "circulatingPrevWeek": 4027496115.33122,
-                "circulatingPrevMonth": 4201029755.805911
+                "circulatingUsd": 4008839142.580406,
+                "circulatingPrevDay": 4008839142.580406,
+                "circulatingPrevWeek": 4025632549.615853,
+                "circulatingPrevMonth": 4186336763.113695
             },
             {
                 "name": "Global Dollar",
                 "symbol": "USDG",
                 "peggedId": "286",
-                "circulatingUsd": 3365190927.020278,
-                "circulatingPrevDay": 3378504766.882636,
-                "circulatingPrevWeek": 3404467970.137692,
-                "circulatingPrevMonth": 3226456765.358453
+                "circulatingUsd": 3323081861.268916,
+                "circulatingPrevDay": 3365280978.476133,
+                "circulatingPrevWeek": 3404597320.25998,
+                "circulatingPrevMonth": 3227446113.915663
             },
             {
                 "name": "Circle USYC",
                 "symbol": "USYC",
                 "peggedId": "237",
                 "circulatingUsd": 2922761052.44449,
-                "circulatingPrevDay": 2922732952.84649,
+                "circulatingPrevDay": 2922761052.44449,
                 "circulatingPrevWeek": 2997131465.390777,
-                "circulatingPrevMonth": 2967744374.356363
+                "circulatingPrevMonth": 2966789260.141219
             },
             {
                 "name": "PayPal USD",
                 "symbol": "PYUSD",
                 "peggedId": "120",
-                "circulatingUsd": 2841653371.702095,
-                "circulatingPrevDay": 2813236820.242386,
-                "circulatingPrevWeek": 2754326708.352306,
-                "circulatingPrevMonth": 2748529819.731482
+                "circulatingUsd": 2877115974.983856,
+                "circulatingPrevDay": 2842133304.408854,
+                "circulatingPrevWeek": 2755785365.984548,
+                "circulatingPrevMonth": 2686905750.489091
             },
             {
                 "name": "BlackRock USD",
                 "symbol": "BUIDL",
                 "peggedId": "173",
                 "circulatingUsd": 2588172546.250449,
-                "circulatingPrevDay": 2721514639.500449,
+                "circulatingPrevDay": 2588172546.250449,
                 "circulatingPrevWeek": 2740664230.850449,
-                "circulatingPrevMonth": 2538044534.490449
+                "circulatingPrevMonth": 2618033868.090449
             },
             {
                 "name": "Ondo US Dollar Yield",
                 "symbol": "USDY",
                 "peggedId": "129",
-                "circulatingUsd": 2154564050.096657,
-                "circulatingPrevDay": 2150595252.409503,
-                "circulatingPrevWeek": 2145871477.79477,
-                "circulatingPrevMonth": 2164218268.994928
+                "circulatingUsd": 2143425903.791535,
+                "circulatingPrevDay": 2143435853.948344,
+                "circulatingPrevWeek": 2134933617.965007,
+                "circulatingPrevMonth": 2152234982.876987
             },
             {
                 "name": "Ripple USD",
                 "symbol": "RLUSD",
                 "peggedId": "250",
-                "circulatingUsd": 2073712799.546835,
-                "circulatingPrevDay": 1888769768.373744,
-                "circulatingPrevWeek": 1716531780.732077,
-                "circulatingPrevMonth": 1575321683.612484
+                "circulatingUsd": 2073746713.373447,
+                "circulatingPrevDay": 2073746714.638498,
+                "circulatingPrevWeek": 1716559854.211056,
+                "circulatingPrevMonth": 1594244368.533376
             }
         ],
-        "delta24hUsd": 950884116.9382324,
-        "generatedAt": "2026-08-22T05:12:10.660Z",
-        "totalPrevDay": 308475876212.1638,
-        "totalPrevWeek": 307336272788.771
+        "delta24hUsd": 244921658.3765259,
+        "generatedAt": "2026-08-23T05:12:11.256Z",
+        "totalPrevDay": 309270658346.641,
+        "totalPrevWeek": 307206526229.3019
     },
     "altseason": {
         "top": [
             {
                 "symbol": "BTWUSDT",
-                "return_pct": 1174.94
+                "return_pct": 1160.12
             },
             {
                 "symbol": "TUTUSDT",
-                "return_pct": 283.49
-            },
-            {
-                "symbol": "BOMEUSDT",
-                "return_pct": 150.02
+                "return_pct": 510.61
             },
             {
                 "symbol": "PUMPUSDT",
-                "return_pct": 143.7
+                "return_pct": 162.51
             },
             {
                 "symbol": "LITUSDT",
-                "return_pct": 143.33
+                "return_pct": 126.35
+            },
+            {
+                "symbol": "ACEUSDT",
+                "return_pct": 99.78
             }
         ],
-        "value": 68,
+        "value": 50,
         "bottom": [
             {
                 "symbol": "BEATUSDT",
-                "return_pct": -85.52
+                "return_pct": -86.78
             },
             {
-                "symbol": "BBUSDT",
-                "return_pct": -62.04
+                "symbol": "MOVEUSDT",
+                "return_pct": -53.32
             },
             {
-                "symbol": "GALAUSDT",
-                "return_pct": -30.97
+                "symbol": "1000BONKUSDT",
+                "return_pct": -48.88
+            },
+            {
+                "symbol": "NEARUSDT",
+                "return_pct": -33.9
             },
             {
                 "symbol": "DOTUSDT",
-                "return_pct": -18.5
-            },
-            {
-                "symbol": "BCHUSDT",
-                "return_pct": -14.47
+                "return_pct": -29.41
             }
         ],
         "history": [
@@ -506,12 +505,16 @@
             },
             {
                 "date": "2026-08-22",
-                "value": 68
+                "value": 56
+            },
+            {
+                "date": "2026-08-23",
+                "value": 50
             }
         ],
-        "computed_at": "2026-08-22T04:12:32.012Z",
+        "computed_at": "2026-08-23T04:12:29.341Z",
         "sample_size": 50,
-        "outperformers": 34,
-        "btc_return_90d_pct": 1.75
+        "outperformers": 25,
+        "btc_return_90d_pct": -0.54
     }
 }
