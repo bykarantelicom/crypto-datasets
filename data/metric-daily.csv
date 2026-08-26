@@ -25,6 +25,7 @@ altseason_index,2026-08-21,58,live
 altseason_index,2026-08-22,56,live
 altseason_index,2026-08-23,54,live
 altseason_index,2026-08-24,60,live
+altseason_index,2026-08-25,58,live
 btc_25d_skew_30d_pp,2026-08-06,4.049843508457294,live
 btc_25d_skew_30d_pp,2026-08-07,4.519903296444802,live
 btc_25d_skew_30d_pp,2026-08-08,3.708170528570876,live
@@ -44,7 +45,8 @@ btc_25d_skew_30d_pp,2026-08-21,0.2556264864791341,live
 btc_25d_skew_30d_pp,2026-08-22,-0.5313955781815602,live
 btc_25d_skew_30d_pp,2026-08-23,-0.9769870843139328,live
 btc_25d_skew_30d_pp,2026-08-24,-1.054021833277777,live
-btc_25d_skew_30d_pp,2026-08-25,-2.050392196399304,live
+btc_25d_skew_30d_pp,2026-08-25,-2.050755091288691,live
+btc_25d_skew_30d_pp,2026-08-26,-2.275111039109497,live
 btc_atm_iv_30d_pct,2026-08-06,31.89337752004331,live
 btc_atm_iv_30d_pct,2026-08-07,32.32179555681885,live
 btc_atm_iv_30d_pct,2026-08-08,31.27858319351258,live
@@ -65,6 +67,7 @@ btc_atm_iv_30d_pct,2026-08-22,41.12185347804019,live
 btc_atm_iv_30d_pct,2026-08-23,40.0334797064952,live
 btc_atm_iv_30d_pct,2026-08-24,40.87785892849469,live
 btc_atm_iv_30d_pct,2026-08-25,41.6397356838184,live
+btc_atm_iv_30d_pct,2026-08-26,41.06441805385865,live
 btc_close,2017-08-17,4285.08,backfill
 btc_close,2017-08-18,4108.37,backfill
 btc_close,2017-08-19,4139.98,backfill
@@ -3360,6 +3363,7 @@ btc_close,2026-08-21,78338.03,live
 btc_close,2026-08-22,77074.93,live
 btc_close,2026-08-23,77734,live
 btc_close,2026-08-24,78992.75,live
+btc_close,2026-08-25,78539.14,live
 btc_difficulty_t,2017-08-17,0.9232330684489053,backfill
 btc_difficulty_t,2017-08-18,0.9232330684489053,backfill
 btc_difficulty_t,2017-08-19,0.9232330684489053,backfill
@@ -6544,6 +6548,7 @@ btc_difficulty_t,2026-08-21,127.4798556936914,live
 btc_difficulty_t,2026-08-22,127.4798556936914,live
 btc_difficulty_t,2026-08-23,125.8070765471975,live
 btc_difficulty_t,2026-08-24,125.8070765471975,live
+btc_difficulty_t,2026-08-25,125.8070765471975,live
 btc_dominance_pct,2026-08-13,56.2216485940741,live
 btc_dominance_pct,2026-08-14,56.11102020566597,live
 btc_dominance_pct,2026-08-15,56.15811511605272,live
@@ -6556,6 +6561,7 @@ btc_dominance_pct,2026-08-21,58.98796671822558,live
 btc_dominance_pct,2026-08-22,59.31089388388367,live
 btc_dominance_pct,2026-08-23,59.17689670723063,live
 btc_dominance_pct,2026-08-24,59.05522691590356,live
+btc_dominance_pct,2026-08-25,59.23757154337912,live
 btc_fee_block_avg_satvb,2026-06-16,2,backfill
 btc_fee_block_avg_satvb,2026-06-17,1,backfill
 btc_fee_block_avg_satvb,2026-06-18,1,backfill
@@ -6612,6 +6618,7 @@ btc_fee_block_avg_satvb,2026-08-21,1,live
 btc_fee_block_avg_satvb,2026-08-22,3,live
 btc_fee_block_avg_satvb,2026-08-23,1,live
 btc_fee_block_avg_satvb,2026-08-24,2,live
+btc_fee_block_avg_satvb,2026-08-25,3,live
 btc_hashrate_ehs,2017-08-17,6.608759725956296,backfill
 btc_hashrate_ehs,2017-08-18,6.608759725956296,backfill
 btc_hashrate_ehs,2017-08-19,6.608759725956296,backfill
@@ -9796,6 +9803,7 @@ btc_hashrate_ehs,2026-08-21,870.8464093158337,live
 btc_hashrate_ehs,2026-08-22,911.5121651738441,live
 btc_hashrate_ehs,2026-08-23,854.7742219314398,live
 btc_hashrate_ehs,2026-08-24,902.2174084414027,live
+btc_hashrate_ehs,2026-08-25,919.1373419793491,live
 coinbase_premium_pct,2017-08-17,-0.11831751099162,backfill
 coinbase_premium_pct,2017-08-18,-0.1618646811265693,backfill
 coinbase_premium_pct,2017-08-19,0.4210165266498943,backfill
@@ -13091,6 +13099,7 @@ coinbase_premium_pct,2026-08-21,-0.01594372490603254,live
 coinbase_premium_pct,2026-08-22,-0.02658451976536429,live
 coinbase_premium_pct,2026-08-23,-0.005969074021662873,live
 coinbase_premium_pct,2026-08-24,-0.01412787882432691,live
+coinbase_premium_pct,2026-08-25,-0.01571191128397447,live
 dvol_btc,2021-03-24,95.04,backfill
 dvol_btc,2021-03-25,89.74,backfill
 dvol_btc,2021-03-26,84.52,backfill
@@ -15071,6 +15080,7 @@ dvol_btc,2026-08-21,39.28,live
 dvol_btc,2026-08-22,43.33,live
 dvol_btc,2026-08-23,42.22,live
 dvol_btc,2026-08-24,43.13,live
+dvol_btc,2026-08-25,43.47,live
 etf_btc_net_flow_usd,2025-05-20,329022102.06,backfill
 etf_btc_net_flow_usd,2025-05-21,608993678.8,backfill
 etf_btc_net_flow_usd,2025-05-22,934742459.72,backfill
@@ -15400,7 +15410,8 @@ eth_25d_skew_30d_pp,2026-08-21,-2.898322019374978,live
 eth_25d_skew_30d_pp,2026-08-22,-3.239293952596068,live
 eth_25d_skew_30d_pp,2026-08-23,-2.12045679578269,live
 eth_25d_skew_30d_pp,2026-08-24,-3.993111856547471,live
-eth_25d_skew_30d_pp,2026-08-25,-3.487545784078544,live
+eth_25d_skew_30d_pp,2026-08-25,-3.488204964239364,live
+eth_25d_skew_30d_pp,2026-08-26,-2.926000763249212,live
 eth_atm_iv_30d_pct,2026-08-06,44.88823938972565,live
 eth_atm_iv_30d_pct,2026-08-07,45.03368968824444,live
 eth_atm_iv_30d_pct,2026-08-08,44.23079179704989,live
@@ -15421,6 +15432,7 @@ eth_atm_iv_30d_pct,2026-08-22,54.72290583672299,live
 eth_atm_iv_30d_pct,2026-08-23,54.01195386004979,live
 eth_atm_iv_30d_pct,2026-08-24,57.75058012249949,live
 eth_atm_iv_30d_pct,2026-08-25,55.93791006880473,live
+eth_atm_iv_30d_pct,2026-08-26,55.68580873776291,live
 eth_dominance_pct,2026-08-13,10.04544137933598,live
 eth_dominance_pct,2026-08-14,10.07782872754459,live
 eth_dominance_pct,2026-08-15,10.07507941035106,live
@@ -15433,6 +15445,7 @@ eth_dominance_pct,2026-08-21,11.39419767633366,live
 eth_dominance_pct,2026-08-22,11.20784604109627,live
 eth_dominance_pct,2026-08-23,11.26966841124835,live
 eth_dominance_pct,2026-08-24,11.15065196766211,live
+eth_dominance_pct,2026-08-25,11.07701286825269,live
 euphoria_index,2026-08-13,48,live
 euphoria_index,2026-08-14,53,live
 euphoria_index,2026-08-15,51,live
@@ -15445,6 +15458,7 @@ euphoria_index,2026-08-21,84,live
 euphoria_index,2026-08-22,82,live
 euphoria_index,2026-08-23,73,live
 euphoria_index,2026-08-24,78,live
+euphoria_index,2026-08-25,70,live
 fear_greed,2018-02-01,30,backfill
 fear_greed,2018-02-02,15,backfill
 fear_greed,2018-02-03,40,backfill
@@ -18568,6 +18582,7 @@ fear_greed,2026-08-21,72,live
 fear_greed,2026-08-22,71,live
 fear_greed,2026-08-23,66,live
 fear_greed,2026-08-24,73,live
+fear_greed,2026-08-25,74,live
 fred_dff,2017-01-01,0.55,backfill
 fred_dff,2017-01-02,0.55,backfill
 fred_dff,2017-01-03,0.66,backfill
@@ -22088,6 +22103,9 @@ fred_dff,2026-08-18,3.63,live
 fred_dff,2026-08-19,3.63,live
 fred_dff,2026-08-20,3.63,live
 fred_dff,2026-08-21,3.63,live
+fred_dff,2026-08-22,3.63,live
+fred_dff,2026-08-23,3.63,live
+fred_dff,2026-08-24,3.63,live
 fred_dgs10,2017-01-02,0,backfill
 fred_dgs10,2017-01-03,2.45,backfill
 fred_dgs10,2017-01-04,2.46,backfill
@@ -24603,6 +24621,7 @@ fred_dgs10,2026-08-18,4.71,live
 fred_dgs10,2026-08-19,4.65,live
 fred_dgs10,2026-08-20,4.69,live
 fred_dgs10,2026-08-21,4.74,live
+fred_dgs10,2026-08-24,4.7,live
 fred_rrp_busd,2017-01-02,0,backfill
 fred_rrp_busd,2017-01-03,287.236,backfill
 fred_rrp_busd,2017-01-04,266.468,backfill
@@ -27119,6 +27138,7 @@ fred_rrp_busd,2026-08-19,0.317,live
 fred_rrp_busd,2026-08-20,0.225,live
 fred_rrp_busd,2026-08-21,0.2,live
 fred_rrp_busd,2026-08-24,0.38,live
+fred_rrp_busd,2026-08-25,0.405,live
 fred_walcl_busd,2017-01-04,4453.101,backfill
 fred_walcl_busd,2017-01-11,4452.509,backfill
 fred_walcl_busd,2017-01-18,4460.758,backfill
@@ -30163,6 +30183,7 @@ funding_btc_daily_pct,2026-08-21,0.020778,live
 funding_btc_daily_pct,2026-08-22,0.03,live
 funding_btc_daily_pct,2026-08-23,0.03,live
 funding_btc_daily_pct,2026-08-24,0.03,live
+funding_btc_daily_pct,2026-08-25,0.025818,live
 insurance_binance_musd,2026-08-13,2353.845415985222,live
 insurance_binance_musd,2026-08-14,2353.330369417334,live
 insurance_binance_musd,2026-08-15,2350.478475820274,live
@@ -30175,6 +30196,7 @@ insurance_binance_musd,2026-08-21,2359.836150452374,live
 insurance_binance_musd,2026-08-22,2372.81586396095,live
 insurance_binance_musd,2026-08-23,2374.789774099615,live
 insurance_binance_musd,2026-08-24,2365.410428021673,live
+insurance_binance_musd,2026-08-25,2366.457725467897,live
 insurance_bybit_musd,2026-08-13,511.0674971074609,live
 insurance_bybit_musd,2026-08-14,511.2794420373484,live
 insurance_bybit_musd,2026-08-15,511.3917826158118,live
@@ -30187,6 +30209,7 @@ insurance_bybit_musd,2026-08-21,514.006769775551,live
 insurance_bybit_musd,2026-08-22,515.1968721989427,live
 insurance_bybit_musd,2026-08-23,515.3445819804899,live
 insurance_bybit_musd,2026-08-24,515.4517164540143,live
+insurance_bybit_musd,2026-08-25,515.6817258684898,live
 kraken_btc_premium_pct,2024-08-23,0.07832942206753991,backfill
 kraken_btc_premium_pct,2024-08-24,0.02959925969118255,backfill
 kraken_btc_premium_pct,2024-08-25,0.1060417315478022,backfill
@@ -30919,6 +30942,7 @@ kraken_btc_premium_pct,2026-08-21,-0.01382470302099982,live
 kraken_btc_premium_pct,2026-08-22,0.009951355129369312,live
 kraken_btc_premium_pct,2026-08-23,0.004502534283582473,live
 kraken_btc_premium_pct,2026-08-24,-0.0337372733573577,live
+kraken_btc_premium_pct,2026-08-25,-0.0378664701447014,live
 leadlag_btc_coinbase_binance_asym,2026-08-07,-0.00560510319966899,live
 leadlag_btc_coinbase_binance_asym,2026-08-08,0.02825331309956832,live
 leadlag_btc_coinbase_binance_asym,2026-08-09,0.01593140390284314,live
@@ -30937,14 +30961,17 @@ leadlag_btc_coinbase_binance_asym,2026-08-21,-0.005764661572951975,live
 leadlag_btc_coinbase_binance_asym,2026-08-22,-0.03193420842968551,live
 leadlag_btc_coinbase_binance_asym,2026-08-23,-0.003902160822799428,live
 leadlag_btc_coinbase_binance_asym,2026-08-24,-0.002687265332199946,live
+leadlag_btc_coinbase_binance_asym,2026-08-25,-0.03694466235929718,live
 leadlag_btc_coinbase_kraken_asym,2026-08-21,0.04163545031007461,live
 leadlag_btc_coinbase_kraken_asym,2026-08-22,0.06510732380833113,live
 leadlag_btc_coinbase_kraken_asym,2026-08-23,0.1034076157109377,live
 leadlag_btc_coinbase_kraken_asym,2026-08-24,0.07364440360284495,live
+leadlag_btc_coinbase_kraken_asym,2026-08-25,0.09602781629598892,live
 leadlag_btc_kraken_binance_asym,2026-08-21,-0.0435619236414902,live
 leadlag_btc_kraken_binance_asym,2026-08-22,-0.09864216813673794,live
 leadlag_btc_kraken_binance_asym,2026-08-23,-0.109851788135881,live
 leadlag_btc_kraken_binance_asym,2026-08-24,-0.07864826790458115,live
+leadlag_btc_kraken_binance_asym,2026-08-25,-0.1283550833259439,live
 leadlag_eth_coinbase_binance_asym,2026-08-07,-0.0258609065110155,live
 leadlag_eth_coinbase_binance_asym,2026-08-08,-0.0146034708044383,live
 leadlag_eth_coinbase_binance_asym,2026-08-09,-0.03676728790386158,live
@@ -30963,18 +30990,22 @@ leadlag_eth_coinbase_binance_asym,2026-08-21,-0.009264571505157505,live
 leadlag_eth_coinbase_binance_asym,2026-08-22,-0.0472730891570181,live
 leadlag_eth_coinbase_binance_asym,2026-08-23,-0.01408123463792606,live
 leadlag_eth_coinbase_binance_asym,2026-08-24,-0.003638432510275652,live
+leadlag_eth_coinbase_binance_asym,2026-08-25,-0.002979253747191733,live
 leadlag_eth_coinbase_kraken_asym,2026-08-21,0.0338358725407446,live
 leadlag_eth_coinbase_kraken_asym,2026-08-22,0.01513931341606758,live
 leadlag_eth_coinbase_kraken_asym,2026-08-23,0.04907590506249726,live
 leadlag_eth_coinbase_kraken_asym,2026-08-24,0.08943600057970391,live
+leadlag_eth_coinbase_kraken_asym,2026-08-25,0.08247619156001249,live
 leadlag_eth_kraken_binance_asym,2026-08-21,-0.04051755299165459,live
 leadlag_eth_kraken_binance_asym,2026-08-22,-0.06197494380276417,live
 leadlag_eth_kraken_binance_asym,2026-08-23,-0.0628701892576995,live
 leadlag_eth_kraken_binance_asym,2026-08-24,-0.09229531017122629,live
+leadlag_eth_kraken_binance_asym,2026-08-25,-0.08700334205753155,live
 perp_dex_oi_share_pct,2026-08-21,10.22594965383388,live
 perp_dex_oi_share_pct,2026-08-22,10.66932757800744,live
 perp_dex_oi_share_pct,2026-08-23,10.9575549306981,live
 perp_dex_oi_share_pct,2026-08-24,10.44836579127523,live
+perp_dex_oi_share_pct,2026-08-25,10.14225832233523,live
 quantum_exposed_btc,2026-08-13,1936223.02374956,live
 quantum_exposed_btc,2026-08-14,1936211.9784378,live
 quantum_exposed_btc,2026-08-15,1936337.41208402,live
@@ -30988,6 +31019,7 @@ quantum_exposed_btc,2026-08-22,1935469.46619606,live
 quantum_exposed_btc,2026-08-23,1935283.77890639,live
 quantum_exposed_btc,2026-08-24,1935033.76453732,live
 quantum_exposed_btc,2026-08-25,1935713.6962889,live
+quantum_exposed_btc,2026-08-26,1933787.84988218,live
 quantum_exposed_pct_value,2026-08-13,9.647727404672604,live
 quantum_exposed_pct_value,2026-08-14,9.647460555976858,live
 quantum_exposed_pct_value,2026-08-15,9.647861712818182,live
@@ -31001,6 +31033,7 @@ quantum_exposed_pct_value,2026-08-22,9.642026834376496,live
 quantum_exposed_pct_value,2026-08-23,9.640882656623619,live
 quantum_exposed_pct_value,2026-08-24,9.639437591719826,live
 quantum_exposed_pct_value,2026-08-25,9.642611539968943,live
+quantum_exposed_pct_value,2026-08-26,9.632800649291958,live
 quantum_watchset_btc,2026-08-13,1711613.05507801,live
 quantum_watchset_btc,2026-08-14,1711613.05507801,live
 quantum_watchset_btc,2026-08-15,1711613.05507801,live
@@ -31014,6 +31047,7 @@ quantum_watchset_btc,2026-08-22,1711613.05507801,live
 quantum_watchset_btc,2026-08-23,1711613.05507801,live
 quantum_watchset_btc,2026-08-24,1711613.05507801,live
 quantum_watchset_btc,2026-08-25,1711613.05507801,live
+quantum_watchset_btc,2026-08-26,1711563.05507801,live
 slippage_btc_1m_bps,2026-08-06,0.2761430381054834,live
 slippage_btc_1m_bps,2026-08-07,0.3536807449469776,live
 slippage_btc_1m_bps,2026-08-08,0.223403129848898,live
@@ -31033,6 +31067,7 @@ slippage_btc_1m_bps,2026-08-21,0.8062848454386673,live
 slippage_btc_1m_bps,2026-08-22,0.7216516438488899,live
 slippage_btc_1m_bps,2026-08-23,0.5927354700363711,live
 slippage_btc_1m_bps,2026-08-24,0.6931086053975104,live
+slippage_btc_1m_bps,2026-08-25,0.6594511295525048,live
 stablecoin_total_mcap_busd,2017-11-29,0.000110105,backfill
 stablecoin_total_mcap_busd,2017-11-30,0.000110105,backfill
 stablecoin_total_mcap_busd,2017-12-01,0.000110105,backfill
@@ -34224,6 +34259,7 @@ stablecoin_total_mcap_busd,2026-08-21,307.73493532354,live
 stablecoin_total_mcap_busd,2026-08-22,308.50784908697,live
 stablecoin_total_mcap_busd,2026-08-23,308.54665729224,live
 stablecoin_total_mcap_busd,2026-08-24,308.61952744069,live
+stablecoin_total_mcap_busd,2026-08-25,308.76219937544,live
 theme_ai_index,2025-07-17,53.0672,live
 theme_ai_index,2025-07-18,52.4817,live
 theme_ai_index,2025-07-19,53.8105,live
@@ -34628,6 +34664,7 @@ theme_ai_index,2026-08-21,18.1262,live
 theme_ai_index,2026-08-22,17.4063,live
 theme_ai_index,2026-08-23,18.2985,live
 theme_ai_index,2026-08-24,18.3417,live
+theme_ai_index,2026-08-25,17.7284,live
 theme_defi_index,2025-07-17,80.29,live
 theme_defi_index,2025-07-18,81.3263,live
 theme_defi_index,2025-07-19,83.2871,live
@@ -35032,6 +35069,7 @@ theme_defi_index,2026-08-21,40.2116,live
 theme_defi_index,2026-08-22,40.5237,live
 theme_defi_index,2026-08-23,42.5307,live
 theme_defi_index,2026-08-24,41.3907,live
+theme_defi_index,2026-08-25,40.2816,live
 theme_depin_index,2025-07-17,51.7095,live
 theme_depin_index,2025-07-18,51.3593,live
 theme_depin_index,2025-07-19,52.096,live
@@ -35436,6 +35474,7 @@ theme_depin_index,2026-08-21,15.0701,live
 theme_depin_index,2026-08-22,14.6519,live
 theme_depin_index,2026-08-23,15.0283,live
 theme_depin_index,2026-08-24,14.9265,live
+theme_depin_index,2026-08-25,14.3765,live
 theme_l1_index,2025-07-17,86.9636,live
 theme_l1_index,2025-07-18,86.8731,live
 theme_l1_index,2025-07-19,87.824,live
@@ -35840,6 +35879,7 @@ theme_l1_index,2026-08-21,38.7248,live
 theme_l1_index,2026-08-22,38.0353,live
 theme_l1_index,2026-08-23,38.5667,live
 theme_l1_index,2026-08-24,38.0525,live
+theme_l1_index,2026-08-25,36.5955,live
 theme_l2_index,2025-07-17,41.6213,live
 theme_l2_index,2025-07-18,41.4582,live
 theme_l2_index,2025-07-19,42.3326,live
@@ -36244,6 +36284,7 @@ theme_l2_index,2026-08-21,8.5872,live
 theme_l2_index,2026-08-22,8.527,live
 theme_l2_index,2026-08-23,8.7567,live
 theme_l2_index,2026-08-24,8.5772,live
+theme_l2_index,2026-08-25,8.3904,live
 theme_meme_index,2025-07-17,71.4656,live
 theme_meme_index,2025-07-18,71.8062,live
 theme_meme_index,2025-07-19,73.1622,live
@@ -36648,6 +36689,7 @@ theme_meme_index,2026-08-21,18.8415,live
 theme_meme_index,2026-08-22,19.027,live
 theme_meme_index,2026-08-23,19.9721,live
 theme_meme_index,2026-08-24,19.4637,live
+theme_meme_index,2026-08-25,18.4695,live
 theme_quantum_index,2025-07-17,112.4006,live
 theme_quantum_index,2025-07-18,112.3916,live
 theme_quantum_index,2025-07-19,113.1445,live
@@ -37052,6 +37094,7 @@ theme_quantum_index,2026-08-21,77.6873,live
 theme_quantum_index,2026-08-22,74.9699,live
 theme_quantum_index,2026-08-23,76.2722,live
 theme_quantum_index,2026-08-24,76.6676,live
+theme_quantum_index,2026-08-25,75.7077,live
 theme_rwa_index,2025-07-17,68.931,live
 theme_rwa_index,2025-07-18,68.4551,live
 theme_rwa_index,2025-07-19,69.9659,live
@@ -37456,22 +37499,27 @@ theme_rwa_index,2026-08-21,28.8826,live
 theme_rwa_index,2026-08-22,27.6546,live
 theme_rwa_index,2026-08-23,28.7954,live
 theme_rwa_index,2026-08-24,28.3142,live
+theme_rwa_index,2026-08-25,27.4194,live
 total_perp_oi_btc_busd,2026-08-21,113.7092121856976,live
 total_perp_oi_btc_busd,2026-08-22,108.6784171247681,live
 total_perp_oi_btc_busd,2026-08-23,108.8137759155225,live
 total_perp_oi_btc_busd,2026-08-24,113.4698786743722,live
+total_perp_oi_btc_busd,2026-08-25,110.7906296485647,live
 total_perp_oi_eth_busd,2026-08-21,67.44584208617117,live
 total_perp_oi_eth_busd,2026-08-22,63.57040353945577,live
 total_perp_oi_eth_busd,2026-08-23,64.16260880413408,live
 total_perp_oi_eth_busd,2026-08-24,65.92273452281596,live
+total_perp_oi_eth_busd,2026-08-25,64.52138615529148,live
 usdc_peg_min_usd,2026-08-21,0.9897199164878668,live
 usdc_peg_min_usd,2026-08-22,0.9897199164878668,live
 usdc_peg_min_usd,2026-08-23,0.9897199164878668,live
 usdc_peg_min_usd,2026-08-24,0.99388,live
+usdc_peg_min_usd,2026-08-25,0.9989620870214231,live
 usdt_peg_min_usd,2026-08-21,0.9887446427828401,live
 usdt_peg_min_usd,2026-08-22,0.9897199164878668,live
 usdt_peg_min_usd,2026-08-23,0.9897199164878668,live
 usdt_peg_min_usd,2026-08-24,0.9940329128920867,live
+usdt_peg_min_usd,2026-08-25,0.99398,live
 vpin_btc,2026-05-15,0.1292382752194151,backfill
 vpin_btc,2026-05-16,0.1479362268581825,backfill
 vpin_btc,2026-05-17,0.1618621580017406,backfill
@@ -37574,6 +37622,7 @@ vpin_btc,2026-08-21,0.147692308475666,live
 vpin_btc,2026-08-22,0.1256780637101265,live
 vpin_btc,2026-08-23,0.1268442842514108,live
 vpin_btc,2026-08-24,0.1427946989162757,live
+vpin_btc,2026-08-25,0.1409394874628881,live
 whale_buy_share_pct,2026-08-13,61.61034534446437,live
 whale_buy_share_pct,2026-08-14,44.08173357835454,live
 whale_buy_share_pct,2026-08-15,45.47813152763383,live
@@ -37586,6 +37635,7 @@ whale_buy_share_pct,2026-08-21,53.10788672156968,live
 whale_buy_share_pct,2026-08-22,42.21368881334801,live
 whale_buy_share_pct,2026-08-23,50.88983445415853,live
 whale_buy_share_pct,2026-08-24,48.57455227471333,live
+whale_buy_share_pct,2026-08-25,46.66589455740174,live
 x402_paid_total,2026-08-15,0,live
 x402_paid_total,2026-08-16,1,live
 x402_paid_total,2026-08-17,0,live
@@ -37596,6 +37646,7 @@ x402_paid_total,2026-08-21,0,live
 x402_paid_total,2026-08-22,0,live
 x402_paid_total,2026-08-23,0,live
 x402_paid_total,2026-08-24,1,live
+x402_paid_total,2026-08-25,1,live
 x402_probes_total,2026-08-15,4140,live
 x402_probes_total,2026-08-16,349,live
 x402_probes_total,2026-08-17,3765,live
@@ -37606,3 +37657,4 @@ x402_probes_total,2026-08-21,2741,live
 x402_probes_total,2026-08-22,2870,live
 x402_probes_total,2026-08-23,2872,live
 x402_probes_total,2026-08-24,2908,live
+x402_probes_total,2026-08-25,3018,live
