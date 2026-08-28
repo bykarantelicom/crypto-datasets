@@ -1,4 +1,27 @@
 date,asset,ticker,issuer,net_inflow_usd,net_assets_usd,cum_inflow_usd,fee_pct,source
+2026-08-26,BTC,ARKB,Ark & 21Shares,0,2750352239,1404129765,0.21,bykaranteli.com
+2026-08-26,BTC,BITB,Bitwise,5959499,2982303431,2102692879,0.2,bykaranteli.com
+2026-08-26,BTC,BRRR,Valkyrie,0,450888581,299315125,0.25,bykaranteli.com
+2026-08-26,BTC,BTC,Grayscale,46829475,4835228627,2845636263,0.15,bykaranteli.com
+2026-08-26,BTC,BTCO,Invesco,0,405103711,148146349,0.25,bykaranteli.com
+2026-08-26,BTC,BTCW,WisdomTree,0,169885038,87834149,0.25,bykaranteli.com
+2026-08-26,ETH,ETH,Grayscale,34665540,2183240190,1896621014,0.15,bykaranteli.com
+2026-08-26,ETH,ETHA,BlackRock,115661614,8377631859,12522946097,0.25,bykaranteli.com
+2026-08-26,ETH,ETHB,BlackRock,6366094,839051136,630308637,0.25,bykaranteli.com
+2026-08-26,ETH,ETHE,Grayscale,0,1878901790,-5350045305,2.5,bykaranteli.com
+2026-08-26,ETH,ETHV,VanEck,0,126472360,168860821,0.2,bykaranteli.com
+2026-08-26,ETH,ETHW,Bitwise,0,271983519,392589763,0.2,bykaranteli.com
+2026-08-26,BTC,EZBC,Franklin,0,430506874,315666399,0.19,bykaranteli.com
+2026-08-26,ETH,EZET,Franklin,936791,52460304,67645568,0.19,bykaranteli.com
+2026-08-26,BTC,FBTC,Fidelity,25593732,13839621324,10321304836,0,bykaranteli.com
+2026-08-26,ETH,FETH,Fidelity,32009536,1317315520,2239948882,0.25,bykaranteli.com
+2026-08-26,BTC,GBTC,Grayscale,-50391873,10267198412,-27578096721,1.5,bykaranteli.com
+2026-08-26,BTC,HODL,VanEck,0,1211719609,1069819792,0.25,bykaranteli.com
+2026-08-26,BTC,IBIT,BlackRock,200755800,60720634800,63120781704,0.25,bykaranteli.com
+2026-08-26,BTC,MSBT,Morgan Stanley,3371762,565781706,474353338,0.14,bykaranteli.com
+2026-08-26,ETH,MSSE,Morgan Stanley,0,34580950,26161569,0.14,bykaranteli.com
+2026-08-26,ETH,QETH,Invesco,0,22436097,23241706,0.25,bykaranteli.com
+2026-08-26,ETH,TETH,21Shares,2714185,22700459,19537303,0.21,bykaranteli.com
 2026-08-25,BTC,ARKB,Ark & 21Shares,0,2769221212,1404129765,0.21,bykaranteli.com
 2026-08-25,BTC,BITB,Bitwise,3000193,2996764488,2096733380,0.2,bykaranteli.com
 2026-08-25,BTC,BRRR,Valkyrie,0,453982503,299315125,0.25,bykaranteli.com
@@ -143,7 +166,7 @@ date,asset,ticker,issuer,net_inflow_usd,net_assets_usd,cum_inflow_usd,fee_pct,so
 2026-08-17,BTC,BTC,Grayscale,0,3869804734,2739337501,0.15,bykaranteli.com
 2026-08-17,BTC,BTCO,Invesco,0,328548918,144532233,0.25,bykaranteli.com
 2026-08-17,BTC,BTCW,WisdomTree,0,139292701,87834149,0.25,bykaranteli.com
-2026-08-17,BTC,DEFI,Hashdex,0,7279120,-2967712,0.8999999999999999,bykaranteli.com
+2026-08-17,BTC,DEFI,Hashdex,0,7279120,-2967712,0.9,bykaranteli.com
 2026-08-17,ETH,ETH,Grayscale,0,1620495806,1819166835,0.15,bykaranteli.com
 2026-08-17,ETH,ETHA,BlackRock,25896589,5751344721,11658990467,0.25,bykaranteli.com
 2026-08-17,ETH,ETHB,BlackRock,0,589880298,560770806,0.25,bykaranteli.com
@@ -167,7 +190,7 @@ date,asset,ticker,issuer,net_inflow_usd,net_assets_usd,cum_inflow_usd,fee_pct,so
 2026-08-14,BTC,BTC,Grayscale,0,3788018270,2739337501,0.15,bykaranteli.com
 2026-08-14,BTC,BTCO,Invesco,0,321550505,144532233,0.25,bykaranteli.com
 2026-08-14,BTC,BTCW,WisdomTree,0,136104361,87834149,0.25,bykaranteli.com
-2026-08-14,BTC,DEFI,Hashdex,-1424780,7123900,-2967712,0.8999999999999999,bykaranteli.com
+2026-08-14,BTC,DEFI,Hashdex,-1424780,7123900,-2967712,0.9,bykaranteli.com
 2026-08-14,ETH,ETH,Grayscale,0,1597722889,1819166835,0.15,bykaranteli.com
 2026-08-14,ETH,ETHA,BlackRock,0,5630805683,11633093878,0.25,bykaranteli.com
 2026-08-14,ETH,ETHB,BlackRock,0,580038635,560770806,0.25,bykaranteli.com
@@ -191,7 +214,7 @@ date,asset,ticker,issuer,net_inflow_usd,net_assets_usd,cum_inflow_usd,fee_pct,so
 2026-08-13,BTC,BTC,Grayscale,38926811,3814826358,2739337501,0.15,bykaranteli.com
 2026-08-13,BTC,BTCO,Invesco,-7875527,323841681,144532233,0.25,bykaranteli.com
 2026-08-13,BTC,BTCW,WisdomTree,-4015800,137206498,87834149,0.25,bykaranteli.com
-2026-08-13,BTC,DEFI,Hashdex,0,8610948,-1542932,0.8999999999999999,bykaranteli.com
+2026-08-13,BTC,DEFI,Hashdex,0,8610948,-1542932,0.9,bykaranteli.com
 2026-08-13,ETH,ETH,Grayscale,6474816,1603070737,1819166835,0.15,bykaranteli.com
 2026-08-13,ETH,ETHA,BlackRock,-569203,5663001045,11633093878,0.25,bykaranteli.com
 2026-08-13,ETH,ETHB,BlackRock,0,583323989,560770806,0.25,bykaranteli.com
@@ -215,7 +238,7 @@ date,asset,ticker,issuer,net_inflow_usd,net_assets_usd,cum_inflow_usd,fee_pct,so
 2026-08-12,BTC,BTC,Grayscale,0,3776142241,2700410690,0.15,bykaranteli.com
 2026-08-12,BTC,BTCO,Invesco,0,331742527,152407760,0.25,bykaranteli.com
 2026-08-12,BTC,BTCW,WisdomTree,0,141153149,91849949,0.25,bykaranteli.com
-2026-08-12,BTC,DEFI,Hashdex,0,8606184,-1542932,0.8999999999999999,bykaranteli.com
+2026-08-12,BTC,DEFI,Hashdex,0,8606184,-1542932,0.9,bykaranteli.com
 2026-08-12,ETH,ETH,Grayscale,0,1589858218,1812692019,0.15,bykaranteli.com
 2026-08-12,ETH,ETHA,BlackRock,7379093,5647844074,11633663081,0.25,bykaranteli.com
 2026-08-12,ETH,ETHB,BlackRock,0,581675590,560770806,0.25,bykaranteli.com
@@ -239,7 +262,7 @@ date,asset,ticker,issuer,net_inflow_usd,net_assets_usd,cum_inflow_usd,fee_pct,so
 2026-08-11,BTC,BTC,Grayscale,0,3783935412,2700410690,0.15,bykaranteli.com
 2026-08-11,BTC,BTCO,Invesco,0,332397825,152407760,0.25,bykaranteli.com
 2026-08-11,BTC,BTCW,WisdomTree,0,141155229,91849949,0.25,bykaranteli.com
-2026-08-11,BTC,DEFI,Hashdex,-2873252,8619756,-1542932,0.8999999999999999,bykaranteli.com
+2026-08-11,BTC,DEFI,Hashdex,-2873252,8619756,-1542932,0.9,bykaranteli.com
 2026-08-11,ETH,ETH,Grayscale,0,1591988717,1812692019,0.15,bykaranteli.com
 2026-08-11,ETH,ETHA,BlackRock,563836,5602837935,11626283988,0.25,bykaranteli.com
 2026-08-11,ETH,ETHB,BlackRock,0,577766374,560770806,0.25,bykaranteli.com
@@ -263,7 +286,7 @@ date,asset,ticker,issuer,net_inflow_usd,net_assets_usd,cum_inflow_usd,fee_pct,so
 2026-08-10,BTC,BTC,Grayscale,37056756,3814015976,2700410690,0.15,bykaranteli.com
 2026-08-10,BTC,BTCO,Invesco,0,335066848,152407760,0.25,bykaranteli.com
 2026-08-10,BTC,BTCW,WisdomTree,0,142477995,91849949,0.25,bykaranteli.com
-2026-08-10,BTC,DEFI,Hashdex,0,11593664,1330320,0.8999999999999999,bykaranteli.com
+2026-08-10,BTC,DEFI,Hashdex,0,11593664,1330320,0.9,bykaranteli.com
 2026-08-10,ETH,ETH,Grayscale,8590800,1588775214,1812692019,0.15,bykaranteli.com
 2026-08-10,ETH,ETHA,BlackRock,-23768097,5622852747,11625720152,0.25,bykaranteli.com
 2026-08-10,ETH,ETHB,BlackRock,3859289,579858190,560770806,0.25,bykaranteli.com
@@ -287,7 +310,7 @@ date,asset,ticker,issuer,net_inflow_usd,net_assets_usd,cum_inflow_usd,fee_pct,so
 2026-08-07,BTC,BTC,Grayscale,0,3832370004,2663353934,0.15,bykaranteli.com
 2026-08-07,BTC,BTCO,Invesco,-19372153,339981283,152407760,0.25,bykaranteli.com
 2026-08-07,BTC,BTCW,WisdomTree,0,144642420,91849949,0.25,bykaranteli.com
-2026-08-07,BTC,DEFI,Hashdex,-2942040,11768160,1330320,0.8999999999999999,bykaranteli.com
+2026-08-07,BTC,DEFI,Hashdex,-2942040,11768160,1330320,0.9,bykaranteli.com
 2026-08-07,ETH,ETH,Grayscale,0,1614635480,1804101219,0.15,bykaranteli.com
 2026-08-07,ETH,ETHA,BlackRock,38147564,5767218145,11649488250,0.25,bykaranteli.com
 2026-08-07,ETH,ETHB,BlackRock,0,588985418,556911517,0.25,bykaranteli.com
@@ -311,7 +334,7 @@ date,asset,ticker,issuer,net_inflow_usd,net_assets_usd,cum_inflow_usd,fee_pct,so
 2026-08-06,BTC,BTC,Grayscale,6833328,3801607005,2663353934,0.15,bykaranteli.com
 2026-08-06,BTC,BTCO,Invesco,0,356451344,171779913,0.25,bykaranteli.com
 2026-08-06,BTC,BTCW,WisdomTree,0,143521599,91849949,0.25,bykaranteli.com
-2026-08-06,BTC,DEFI,Hashdex,0,14591440,4272360,0.8999999999999999,bykaranteli.com
+2026-08-06,BTC,DEFI,Hashdex,0,14591440,4272360,0.9,bykaranteli.com
 2026-08-06,ETH,ETH,Grayscale,4549575,1606742284,1804101219,0.15,bykaranteli.com
 2026-08-06,ETH,ETHA,BlackRock,81137632,5703802910,11611340685,0.25,bykaranteli.com
 2026-08-06,ETH,ETHB,BlackRock,1964360,586361508,556911517,0.25,bykaranteli.com
@@ -335,7 +358,7 @@ date,asset,ticker,issuer,net_inflow_usd,net_assets_usd,cum_inflow_usd,fee_pct,so
 2026-08-05,BTC,BTC,Grayscale,0,3818297590,2656520606,0.15,bykaranteli.com
 2026-08-05,BTC,BTCO,Invesco,0,358693127,171779913,0.25,bykaranteli.com
 2026-08-05,BTC,BTCW,WisdomTree,0,144568614,91849949,0.25,bykaranteli.com
-2026-08-05,BTC,DEFI,Hashdex,0,14697780,4272360,0.8999999999999999,bykaranteli.com
+2026-08-05,BTC,DEFI,Hashdex,0,14697780,4272360,0.9,bykaranteli.com
 2026-08-05,ETH,ETH,Grayscale,0,1608047421,1799551644,0.15,bykaranteli.com
 2026-08-05,ETH,ETHA,BlackRock,50344189,5654173236,11530203053,0.25,bykaranteli.com
 2026-08-05,ETH,ETHB,BlackRock,4938162,587641254,554947157,0.25,bykaranteli.com
@@ -359,7 +382,7 @@ date,asset,ticker,issuer,net_inflow_usd,net_assets_usd,cum_inflow_usd,fee_pct,so
 2026-08-04,BTC,BTC,Grayscale,0,3782045441,2656520606,0.15,bykaranteli.com
 2026-08-04,BTC,BTCO,Invesco,0,355388079,171779913,0.25,bykaranteli.com
 2026-08-04,BTC,BTCW,WisdomTree,0,143297576,91849949,0.25,bykaranteli.com
-2026-08-04,BTC,DEFI,Hashdex,0,14562440,4272360,0.8999999999999999,bykaranteli.com
+2026-08-04,BTC,DEFI,Hashdex,0,14562440,4272360,0.9,bykaranteli.com
 2026-08-04,ETH,ETH,Grayscale,0,1573024795,1799551644,0.15,bykaranteli.com
 2026-08-04,ETH,ETHA,BlackRock,42458238,5482207691,11479858864,0.25,bykaranteli.com
 2026-08-04,ETH,ETHB,BlackRock,0,570028429,550008995,0.25,bykaranteli.com
@@ -383,7 +406,7 @@ date,asset,ticker,issuer,net_inflow_usd,net_assets_usd,cum_inflow_usd,fee_pct,so
 2026-08-03,BTC,BTC,Grayscale,0,3760387447,2656520606,0.15,bykaranteli.com
 2026-08-03,BTC,BTCO,Invesco,6665402,353266317,171779913,0.25,bykaranteli.com
 2026-08-03,BTC,BTCW,WisdomTree,0,142429045,91849949,0.25,bykaranteli.com
-2026-08-03,BTC,DEFI,Hashdex,0,14476200,4272360,0.8999999999999999,bykaranteli.com
+2026-08-03,BTC,DEFI,Hashdex,0,14476200,4272360,0.9,bykaranteli.com
 2026-08-03,ETH,ETH,Grayscale,0,1568244180,1799551644,0.15,bykaranteli.com
 2026-08-03,ETH,ETHA,BlackRock,-9030339,5423283086,11437400626,0.25,bykaranteli.com
 2026-08-03,ETH,ETHB,BlackRock,5779050,568273250,550008995,0.25,bykaranteli.com
@@ -407,7 +430,7 @@ date,asset,ticker,issuer,net_inflow_usd,net_assets_usd,cum_inflow_usd,fee_pct,so
 2026-07-31,BTC,BTC,Grayscale,0,3707142103,2656520606,0.15,bykaranteli.com
 2026-07-31,BTC,BTCO,Invesco,0,341665026,165114511,0.25,bykaranteli.com
 2026-07-31,BTC,BTCW,WisdomTree,0,140373924,91849949,0.25,bykaranteli.com
-2026-07-31,BTC,DEFI,Hashdex,0,14264460,4272360,0.8999999999999999,bykaranteli.com
+2026-07-31,BTC,DEFI,Hashdex,0,14264460,4272360,0.9,bykaranteli.com
 2026-07-31,ETH,ETH,Grayscale,-1957032,1566351303,1799551644,0.15,bykaranteli.com
 2026-07-31,ETH,ETHA,BlackRock,0,5423418385,11446430965,0.25,bykaranteli.com
 2026-07-31,ETH,ETHB,BlackRock,15383096,561482992,544229945,0.25,bykaranteli.com
@@ -431,7 +454,7 @@ date,asset,ticker,issuer,net_inflow_usd,net_assets_usd,cum_inflow_usd,fee_pct,so
 2026-07-30,BTC,BTC,Grayscale,2289912,3814992247,2656520606,0.15,bykaranteli.com
 2026-07-30,BTC,BTCO,Invesco,0,351652239,165114511,0.25,bykaranteli.com
 2026-07-30,BTC,BTCW,WisdomTree,0,144392672,91849949,0.25,bykaranteli.com
-2026-07-30,BTC,DEFI,Hashdex,0,14673680,4272360,0.8999999999999999,bykaranteli.com
+2026-07-30,BTC,DEFI,Hashdex,0,14673680,4272360,0.9,bykaranteli.com
 2026-07-30,ETH,ETH,Grayscale,0,1614975363,1801508676,0.15,bykaranteli.com
 2026-07-30,ETH,ETHA,BlackRock,16241665,5583072495,11446430965,0.25,bykaranteli.com
 2026-07-30,ETH,ETHB,BlackRock,0,562145488,528846849,0.25,bykaranteli.com
