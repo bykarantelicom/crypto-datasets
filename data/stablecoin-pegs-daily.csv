@@ -39,7 +39,11 @@ date,symbol,venues,min_usd,median_usd,max_usd,source
 2026-08-30,FDUSD,3,0.9985,0.9985,0.9985,bykaranteli.com
 2026-08-30,USDC,24,0.9989,1.00001,1.01439,bykaranteli.com
 2026-08-30,USDT,17,0.99985,1,1.01287,bykaranteli.com
-2026-08-31,DAI,3,0.99893,1.00031,1.00197,bykaranteli.com
+2026-08-31,DAI,3,0.99704,0.9999,1.00108,bykaranteli.com
 2026-08-31,FDUSD,3,0.9985,0.9986,0.9987,bykaranteli.com
-2026-08-31,USDC,24,0.9989,1.0001,1.01328,bykaranteli.com
-2026-08-31,USDT,17,0.99948,1,1.01336,bykaranteli.com
+2026-08-31,USDC,24,0.99806,1.0002,1.00729,bykaranteli.com
+2026-08-31,USDT,17,0.99842,0.9998,1.00729,bykaranteli.com
+2026-09-01,DAI,3,0.99821,1.00005,1.00168,bykaranteli.com
+2026-09-01,FDUSD,3,0.9987,0.9988,0.9989,bykaranteli.com
+2026-09-01,USDC,24,0.99792,1.0002,1.00802,bykaranteli.com
+2026-09-01,USDT,17,0.99853,0.9998,1.00875,bykaranteli.com
