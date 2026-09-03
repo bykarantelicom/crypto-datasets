@@ -2,6 +2,7 @@ date,asset,ticker,issuer,net_inflow_usd,net_assets_usd,cum_inflow_usd,fee_pct,so
 2026-09-01,BTC,ARKB,Ark & 21Shares,0,2622821540,1318988550,0.21,bykaranteli.com
 2026-09-01,BTC,BITB,Bitwise,8383169,2920696219,2087410003,0.2,bykaranteli.com
 2026-09-01,BTC,BRRR,Valkyrie,0,442890305,299315125,0.25,bykaranteli.com
+2026-09-01,SOL,BSOL,Bitwise,6166819,949827220,1028353281,0.2,bykaranteli.com
 2026-09-01,BTC,BTC,Grayscale,0,4782407009,2866712949,0.15,bykaranteli.com
 2026-09-01,BTC,BTCO,Invesco,0,398902289,148146349,0.25,bykaranteli.com
 2026-09-01,BTC,BTCW,WisdomTree,0,167280882,87834149,0.25,bykaranteli.com
@@ -15,13 +16,21 @@ date,asset,ticker,issuer,net_inflow_usd,net_assets_usd,cum_inflow_usd,fee_pct,so
 2026-09-01,ETH,EZET,Franklin,0,51261896,67645568,0.19,bykaranteli.com
 2026-09-01,BTC,FBTC,Fidelity,-43670243,13506096217,10200885402,0,bykaranteli.com
 2026-09-01,ETH,FETH,Fidelity,4812021,1331125364,2286010515,0.25,bykaranteli.com
+2026-09-01,SOL,FSOL,Fidelity,2665809,190753460,215291251,0.25,bykaranteli.com
 2026-09-01,BTC,GBTC,Grayscale,0,10082980509,-27605306629,1.5,bykaranteli.com
+2026-09-01,SOL,GSOL,Grayscale,0,154028464,130837195,0.35,bykaranteli.com
 2026-09-01,BTC,HODL,VanEck,0,1172309771,1048903455,0.25,bykaranteli.com
 2026-09-01,BTC,IBIT,BlackRock,-201176400,60024040320,63369724664,0.25,bykaranteli.com
 2026-09-01,BTC,MSBT,Morgan Stanley,0,576356080,493973695,0.14,bykaranteli.com
+2026-09-01,SOL,MSOL,Morgan Stanley,1357463,43167311,33901873,0.14,bykaranteli.com
 2026-09-01,ETH,MSSE,Morgan Stanley,2338407,44429736,37129224,0.14,bykaranteli.com
 2026-09-01,ETH,QETH,Invesco,0,21954290,23241706,0.25,bykaranteli.com
+2026-09-01,SOL,QSOL,Invesco,0,5798693,3863471,0.25,bykaranteli.com
+2026-09-01,SOL,SOEZ,Franklin,0,13826186,12365030,0.19,bykaranteli.com
+2026-09-01,SOL,SOLC,Canary,0,2012750,1497994,0.5,bykaranteli.com
 2026-09-01,ETH,TETH,21Shares,0,23391373,20775938,0.21,bykaranteli.com
+2026-09-01,SOL,TSOL,21Shares,0,7779170,-98263443,0.21,bykaranteli.com
+2026-09-01,SOL,VSOL,VanEck,0,23139219,23113753,0.3,bykaranteli.com
 2026-08-31,BTC,ARKB,Ark & 21Shares,0,2684241191,1318988550,0.21,bykaranteli.com
 2026-08-31,BTC,BITB,Bitwise,4290077,2980745639,2079026833,0.2,bykaranteli.com
 2026-08-31,BTC,BRRR,Valkyrie,0,453298807,299315125,0.25,bykaranteli.com
