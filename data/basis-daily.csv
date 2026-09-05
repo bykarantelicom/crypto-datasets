@@ -119,3 +119,7 @@ date,symbol,tenor,expiry,spot_usd,future_usd,annualized_pct,source
 2026-09-04,BTC,next_quarter,2026-12-25,81267.75,82315.8,4.1907,bykaranteli.com
 2026-09-04,ETH,current_quarter,2026-09-25,2508.36,2511.47,2.1224,bykaranteli.com
 2026-09-04,ETH,next_quarter,2026-12-25,2508.37,2530.99,2.9304,bykaranteli.com
+2026-09-05,BTC,current_quarter,2026-09-25,79672,79839.8,3.7826,bykaranteli.com
+2026-09-05,BTC,next_quarter,2026-12-25,79672.01,80669.8,4.1062,bykaranteli.com
+2026-09-05,ETH,current_quarter,2026-09-25,2454.61,2458.86,3.1097,bykaranteli.com
+2026-09-05,ETH,next_quarter,2026-12-25,2454.61,2476.69,2.9493,bykaranteli.com
