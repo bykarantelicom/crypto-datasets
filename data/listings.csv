@@ -1,4 +1,7 @@
 exchange,symbol,status,listing_known,first_seen_at,delisted_at,source
+gate,SHROOMUSDT,listed,1,2026-09-05T06:52:05.712Z,,bykaranteli.com
+gate,FATCOINUSDT,listed,1,2026-09-05T05:52:04.312Z,,bykaranteli.com
+gate,STONKSUSDT,listed,1,2026-09-05T05:52:04.312Z,,bykaranteli.com
 okx,FETUSDT,listed,1,2026-09-05T03:52:05.212Z,,bykaranteli.com
 okx,PONSUSDT,listed,1,2026-09-05T03:52:05.212Z,,bykaranteli.com
 okx,GPROUSDT,listed,1,2026-09-04T13:52:03.774Z,,bykaranteli.com
@@ -59,9 +62,9 @@ bingx,FLORKBSCUSDT,listed,1,2026-09-03T02:52:03.854Z,,bykaranteli.com
 binance,NVDAUSDT,listed,0,2026-09-02T21:52:04.960Z,,bykaranteli.com
 binance,NVOUSDT,listed,0,2026-09-02T21:52:04.960Z,,bykaranteli.com
 binance,ONDSUSDT,listed,0,2026-09-02T21:52:04.960Z,,bykaranteli.com
+binance,SPCXUSDT,listed,0,2026-09-02T21:52:04.960Z,,bykaranteli.com
 binance,HYUNDAIUSDT,listed,0,2026-09-02T21:52:04.960Z,,bykaranteli.com
 binance,SMCIUSDT,listed,0,2026-09-02T21:52:04.960Z,,bykaranteli.com
-binance,SPCXUSDT,listed,0,2026-09-02T21:52:04.960Z,,bykaranteli.com
 binance,HDUSDT,listed,0,2026-09-02T21:52:04.960Z,,bykaranteli.com
 binance,GTLBUSDT,listed,0,2026-09-02T21:52:04.960Z,,bykaranteli.com
 binance,FLEXUSDT,listed,0,2026-09-02T21:52:04.960Z,,bykaranteli.com
@@ -72,7 +75,6 @@ binance,IONQUSDT,listed,0,2026-09-02T21:52:04.960Z,,bykaranteli.com
 binance,IBMUSDT,listed,0,2026-09-02T21:52:04.960Z,,bykaranteli.com
 binance,LGELECTRONICSUSDT,listed,0,2026-09-02T21:52:04.960Z,,bykaranteli.com
 binance,BSPUSDT,listed,0,2026-09-02T21:52:04.960Z,,bykaranteli.com
-binance,TSMUSDT,listed,0,2026-09-02T21:52:04.960Z,,bykaranteli.com
 binance,IRENUSDT,listed,0,2026-09-02T21:52:04.960Z,,bykaranteli.com
 binance,IWMUSDT,listed,0,2026-09-02T21:52:04.960Z,,bykaranteli.com
 binance,JPMUSDT,listed,0,2026-09-02T21:52:04.960Z,,bykaranteli.com
@@ -89,6 +91,7 @@ binance,MRVLUSDT,listed,0,2026-09-02T21:52:04.960Z,,bykaranteli.com
 binance,MUUSDT,listed,0,2026-09-02T21:52:04.960Z,,bykaranteli.com
 binance,MVLLUSDT,listed,0,2026-09-02T21:52:04.960Z,,bykaranteli.com
 binance,NAVERUSDT,listed,0,2026-09-02T21:52:04.960Z,,bykaranteli.com
+binance,TSMUSDT,listed,0,2026-09-02T21:52:04.960Z,,bykaranteli.com
 binance,XAGUSDT,listed,0,2026-09-02T21:52:04.960Z,,bykaranteli.com
 binance,SHOPUSDT,listed,0,2026-09-02T21:52:04.960Z,,bykaranteli.com
 binance,SKDDUSDT,listed,0,2026-09-02T21:52:04.960Z,,bykaranteli.com
@@ -680,8 +683,6 @@ binance,SOLUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 binance,SONICUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 binance,SOPHUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 bybit,RAYDIUMUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
-binance,SYNUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
-binance,TREEUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 bybit,REUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 bybit,RLCUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 bybit,ROBOUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
@@ -791,6 +792,7 @@ bybit,ATHUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 bybit,AXLUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 bybit,BABAUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 bybit,BANUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
+binance,TREEUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 binance,SPKUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 binance,COTIUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 binance,IOSTUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
@@ -1123,6 +1125,7 @@ okx,WALUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 okx,WDCUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 okx,WIFUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 okx,WOOUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
+binance,SYNUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 htx,GRAMUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 htx,AVNTUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 htx,GLWUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
@@ -2861,7 +2864,7 @@ bybit,NOMUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 bybit,CUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 bingx,SAPIENUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 bingx,SEIUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
-bybit,ASPUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
+bybit,ASPUSDT,delisted,0,2026-07-23T13:55:28.668Z,2026-09-05T09:52:05.389Z,bykaranteli.com
 bybit,ASRUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 bybit,FOLKSUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 bingx,SENTUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
@@ -3022,7 +3025,7 @@ bybit,1INCHUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 bybit,2ZUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 bybit,4USDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 bybit,AALUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
-bybit,SCRTUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
+bybit,SCRTUSDT,delisted,0,2026-07-23T13:55:28.668Z,2026-09-05T09:52:05.389Z,bykaranteli.com
 bybit,SEIUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 bybit,SENTUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
 bybit,SHAZUSDT,listed,0,2026-07-23T13:55:28.668Z,,bykaranteli.com
