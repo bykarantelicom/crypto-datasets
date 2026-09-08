@@ -65,5 +65,7 @@ date,currency,trades,notional_usd,premium_usd,put_share_pct,block_trades,source
 2026-09-05,ETH,2811,78257339,533812,46.2,12,bykaranteli.com
 2026-09-06,BTC,2375,242381868,2419499,45.9,16,bykaranteli.com
 2026-09-06,ETH,1972,102010472,634851,49.8,11,bykaranteli.com
-2026-09-07,BTC,498,64422954,1043454,41.8,8,bykaranteli.com
-2026-09-07,ETH,1121,37430761,353123,61.7,28,bykaranteli.com
+2026-09-07,BTC,3240,1460338072,19915107,47.6,108,bykaranteli.com
+2026-09-07,ETH,3372,129281306,2092787,48.1,46,bykaranteli.com
+2026-09-08,BTC,680,61322728,730351,47.9,5,bykaranteli.com
+2026-09-08,ETH,1016,28073063,234692,37.9,2,bykaranteli.com
