@@ -9,7 +9,8 @@ repository-code: "https://github.com/bykarantelicom/crypto-datasets"
 url: "https://bykaranteli.com/data"
 license: CC0-1.0
 abstract: >-
-  Daily-updated, CC0-licensed crypto market datasets collected by ByKaranteli's
+  CC0-licensed crypto market datasets (published daily 2026-07-23 to 2026-09-10,
+  frozen since; live series continue at bykaranteli.com/data) collected by ByKaranteli's
   own recording network: real multi-venue liquidations, US spot ETF flows, CFTC
   COT positioning, Coinbase premium, DVOL, options open interest and tape
   rollups, execution-cost ladders, exchange insurance funds, macro liquidity
