@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use these datasets in research, please cite this repository. All data is CC0; citation is appreciated, not required."
+message: "If you use these datasets in research, please cite this repository. ByKaranteli's own computations in these files are CC0; third-party values in them remain under their sources' terms."
 title: "ByKaranteli Crypto Datasets"
 type: dataset
 authors:
@@ -9,13 +9,13 @@ repository-code: "https://github.com/bykarantelicom/crypto-datasets"
 url: "https://bykaranteli.com/data"
 license: CC0-1.0
 abstract: >-
-  CC0-licensed crypto market datasets (published daily 2026-07-23 to 2026-09-10,
-  frozen since; live series continue at bykaranteli.com/data) collected by ByKaranteli's
-  own recording network: real multi-venue liquidations, US spot ETF flows, CFTC
-  COT positioning, Coinbase premium, DVOL, options open interest and tape
-  rollups, execution-cost ladders, exchange insurance funds, macro liquidity
-  series and a daily quantum-exposure measurement from a first-party Bitcoin
-  Core node. Quarterly frozen releases are tagged for reproducible citation.
+  Crypto market datasets (published daily 2026-07-23 to 2026-09-10, frozen since;
+  live series continue at bykaranteli.com/data) recorded by ByKaranteli: multi-venue
+  liquidation totals, CFTC COT positioning, Coinbase premium, options open interest
+  and tape rollups, execution-cost ladders, venue market snapshots and a daily
+  quantum-exposure measurement from ByKaranteli's own Bitcoin Core node. CC0 covers
+  ByKaranteli's own computations; third-party values remain under their sources'
+  terms. Quarterly frozen releases are tagged for reproducible citation.
 keywords:
   - cryptocurrency
   - bitcoin
